@@ -1,0 +1,30 @@
+---
+description: 
+alwaysApply: true
+---
+
+Use
+
+FastAPI
+
+Pydantic
+
+SQLAlchemy
+
+Alembic
+
+Repository Pattern
+
+Service Layer
+
+Dependency Injection
+
+Never put database logic inside routes.
+
+Never put business logic inside routers.
+
+Always create schemas.
+
+Always use type hints.
+
+Always validate input.

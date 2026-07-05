@@ -1,0 +1,25 @@
+---
+alwaysApply: true
+---
+
+Every module should include
+
+Docstrings
+
+README
+
+Examples
+
+Avoid AI sounding documentation.
+
+Write naturally.
+
+Use simple English.
+
+Slight grammar mistakes are acceptable.
+
+Create guides inside
+
+guides/
+
+Never inside backend or frontend.

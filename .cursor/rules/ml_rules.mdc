@@ -1,0 +1,33 @@
+---
+alwaysApply: true
+---
+
+Recommendation system rules.
+
+Primary recommendation model must be trained from scratch.
+
+Preferred models
+
+Random Forest
+
+or
+
+XGBoost
+
+Use
+
+Feature Engineering
+
+Pairwise Similarity Dataset
+
+Model Evaluation
+
+Joblib
+
+Sentence Transformers are allowed ONLY as an optional reranking step after the trained ML model selects the top candidate sneakers.
+
+Do not use embeddings as the primary recommendation engine.
+
+Do not use FAISS because dataset size is small.
+
+Keep inference under 150ms.

@@ -1,0 +1,25 @@
+# FastAPI + server
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# Config + validation
+pydantic==2.10.3
+pydantic-settings==2.6.1
+python-dotenv==1.0.1
+
+# Database (used from Task 8 onward)
+sqlalchemy==2.0.36
+alembic==1.14.0
+psycopg2-binary==2.9.10
+
+# Data + ML (used from Phase 3 onward)
+pandas==2.2.3
+scikit-learn==1.5.2
+joblib==1.4.2
+
+# Pipeline integrations (used from Phase 3 onward)
+httpx==0.28.1
+cloudinary==1.41.0
+
+# Dev tooling
+ruff==0.8.4

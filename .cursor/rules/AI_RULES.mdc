@@ -1,0 +1,56 @@
+---
+alwaysApply: true
+---
+Project Name
+
+Sneaker Recommendation System
+
+Goal
+
+Fast recommendation system.
+
+Dataset
+
+Kaggle
+
+Database
+
+Neon PostgreSQL
+
+Backend
+
+FastAPI
+
+Frontend
+
+React
+
+ML
+
+Random Forest
+
+Sentence Transformer only for reranking.
+
+Hosting
+
+Railway
+
+Vercel
+
+Cloudinary
+
+Architecture
+
+Layered Architecture
+
+Priority
+
+Simple beginner friendly code.
+
+Never over engineer.
+
+Performance Target
+
+API <150ms
+
+Always explain why recommendations were selected.

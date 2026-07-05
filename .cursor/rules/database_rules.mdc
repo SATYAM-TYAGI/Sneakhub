@@ -1,0 +1,21 @@
+---
+alwaysApply: true
+---
+
+Database
+
+Neon PostgreSQL
+
+SQLAlchemy ORM
+
+Alembic
+
+Normalize schema.
+
+Images should never be stored in PostgreSQL.
+
+Store image URLs only.
+
+Prefer UUIDs where appropriate.
+
+Keep queries optimized.
