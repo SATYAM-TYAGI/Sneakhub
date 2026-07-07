@@ -1,0 +1,8 @@
+[
+  "brand_match",
+  "category_match",
+  "gender_match",
+  "color_match",
+  "material_match",
+  "abs_price_diff"
+]
